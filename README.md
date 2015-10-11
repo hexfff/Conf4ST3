@@ -10,7 +10,7 @@ Please obtain the relevant license before use.<a href="http://input.fontbureau.c
 其中英文字母和部分常用符号来自前者,其他部分则是后者包含.
 使用之前请阅读并遵守相关许可.<a href="http://input.fontbureau.com/license/">Input's License</a> 
 ### Preview
-![Preview](src/imgs/preview.png) width:50%;
+![Preview](src/imgs/preview.png)
 ### How To Use
 preferences-Settings-User
 
