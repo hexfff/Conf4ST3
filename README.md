@@ -1,7 +1,7 @@
 # Conf4ST3
   Sublime Text 3 Configs for self-use.
 ### About License
-This Font is made for improve the display of Chinese Font, it is comprised of 
+This Font is made for improve the display of Chinese Font, it  comprises 
 "Input-Italic_(InputMonoNarrow-LightItalic).ttf" and "NotoSansHans-Light.otf".
 Characters and simple symbols come form 'Input' and others are included in 'NotoSansHans'.
 Please obtain the relevant license before use.<a href="http://input.fontbureau.com/license/">Input's License</a>.
