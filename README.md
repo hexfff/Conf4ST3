@@ -13,5 +13,8 @@ Please obtain the relevant license before use.<a href="http://input.fontbureau.c
 ![Preview](src/imgs/preview.jpg)
 ### How To Use
 preferences-Settings-User
-
->\{<br/>&nbsp;&nbsp;&nbsp;"font_face": "Noto Sans S Chinese Light",<br/>\}
+```json
+{
+  "font_face": "Noto Sans S Chinese Light",
+}
+```
