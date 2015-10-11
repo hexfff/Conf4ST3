@@ -14,5 +14,4 @@ Please obtain the relevant license before use.<a href="http://input.fontbureau.c
 ### How To Use
 preferences-Settings-User
 <hr>
-\"\{<br/>&nbsp;&nbsp;&nbsp;"font_face": "Noto Sans S Chinese Light",<br/>
-\}\"
+>"\{<br/>&nbsp;&nbsp;&nbsp;"font_face": "Noto Sans S Chinese Light",<br/>\}
